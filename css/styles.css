@@ -185,7 +185,7 @@ main img {
 }
 .boxx {
   height: 18vh;
-  background: url(/sale-bg-ny.jpg);
+  background: url(/css/sale-bg-ny.jpg);
   opacity: 100;
   background-repeat: no-repeat;
   background-size: cover;
